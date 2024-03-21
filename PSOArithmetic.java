@@ -3,7 +3,7 @@ public class PSOArithmetic{
 	// Set the TARGET for our arithmetic problem A + B + C + D = TARGET
 	private static final int TARGET = 50;
 	// Set the maximum number of generations for main loop
-	private static final int MAX_GENERATIONS = 100;
+	private static final int MAX_GENERATIONS = 50;
 	// Set the number of particles in our swarm
 	private static final int NUM_PARTICLES = 20;
         
